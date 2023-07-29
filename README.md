@@ -8,8 +8,8 @@ In this project we are going to be building a news feed reader. The goal is to h
 
 * [x] Create a forked copy of this project.
 * [x] Clone your OWN version of the repository.
-* [ ] Implement the project on the main branch, committing changes regularly.
-* [ ] Push commits: `git push origin main`.
+* [x] Implement the project on the main branch, committing changes regularly.
+* [x] Push commits: `git push origin main`.
 
 ## Running the project
 
@@ -24,13 +24,13 @@ Do not **move or rename any files** in this project. The website's source files 
 
 ### The Articles Component
 
-* [ ] Follow the instructions found in the Articles.js file to complete the JavaScript functionality and add the components to the DOM.
+* [x] Follow the instructions found in the Articles.js file to complete the JavaScript functionality and add the components to the DOM.
 
 * [ ] Add a few articles of your own to the data array. Notice how our JavaScript code automatically creates the new articles. Write the code once and add as many components as you want all while maintaining the functionality we built!
 
 ### The Menu Component
 
-* [ ] Follow the instructions found in the Menu.js file to complete the JavaScript functionality.
+* [x] Follow the instructions found in the Menu.js file to complete the JavaScript functionality.
 
 ## Submission Format
 
