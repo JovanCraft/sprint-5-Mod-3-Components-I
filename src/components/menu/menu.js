@@ -64,6 +64,3 @@ header.appendChild(menuMaker(menuItems))
 
 
 
-
-
-
